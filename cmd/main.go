@@ -51,3 +51,9 @@ func main() {
 	http.HandleFunc("/echo", echo)
 	http.ListenAndServe(":8090", nil)
 }
+
+//
+//export GOROOT = $HOME/bin/go
+//export GOBIN= $GOROOT/bin
+//export GOPATH = $HOME/golang
+//export PATH = $PATH:$GOBIN

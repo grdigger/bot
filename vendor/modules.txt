@@ -1,5 +1,8 @@
 # github.com/gorilla/websocket v1.4.2
 github.com/gorilla/websocket
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
 # github.com/slack-go/slack v0.10.2
 ## explicit
 github.com/slack-go/slack
@@ -7,4 +10,6 @@ github.com/slack-go/slack/internal/backoff
 github.com/slack-go/slack/internal/errorsx
 github.com/slack-go/slack/internal/misc
 github.com/slack-go/slack/internal/timex
+github.com/slack-go/slack/slackevents
 github.com/slack-go/slack/slackutilsx
+github.com/slack-go/slack/socketmode

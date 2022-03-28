@@ -2,4 +2,7 @@ module go.avito.ru/sd/bot
 
 go 1.16
 
-require github.com/slack-go/slack v0.10.2
+require (
+	github.com/joho/godotenv v1.4.0
+	github.com/slack-go/slack v0.10.2
+)
